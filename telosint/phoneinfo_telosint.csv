@@ -1,0 +1,53 @@
+description_for_number,description_for_valid_number,country_name_for_number,name_for_number,is_possible_number,is_valid_number,NATIONAL,INTERNATIONAL,E164,Latitude,Longitude,file_of_origin
+,,,,True,True,(888) 382-1222,+1 888-382-1222,+18883821222,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.txt
+,,,,True,True,(877) 382-4357,+1 877-382-4357,+18773824357,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.txt
+,,,,True,True,(866) 653-4261,+1 866-653-4261,+18666534261,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.txt
+Chongqing,Chongqing,China,China Mobile,True,True,188 8382 1222,+86 188 8382 1222,+8618883821222,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.txt
+"Loudi, Hunan","Loudi, Hunan",China,China Mobile,True,True,187 7382 4357,+86 187 7382 4357,+8618773824357,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.txt
+"Foshan, Guangdong","Foshan, Guangdong",China,China Unicom,True,True,186 6653 4261,+86 186 6653 4261,+8618666534261,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.txt
+Mexico,Mexico,Mexico,,True,True,888 382 1222,+52 888 382 1222,+528883821222,29.0948291,-110.969219,C:/Users/vasil/Documents/scams.txt
+"Ciudad Acuna, COAH","Ciudad Acuna, COAH",Mexico,,True,True,877 382 4357,+52 877 382 4357,+528773824357,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.txt
+"Castanos/Monclova, COAH","Castanos/Monclova, COAH",Mexico,,True,True,866 653 4261,+52 866 653 4261,+528666534261,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.txt
+,,,,True,True,(888) 382-1222,+1 888-382-1222,+18883821222,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+,,,,True,True,(877) 382-4357,+1 877-382-4357,+18773824357,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+,,,,True,True,(866) 653-4261,+1 866-653-4261,+18666534261,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+Chongqing,Chongqing,China,China Mobile,True,True,188 8382 1222,+86 188 8382 1222,+8618883821222,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+"Loudi, Hunan","Loudi, Hunan",China,China Mobile,True,True,187 7382 4357,+86 187 7382 4357,+8618773824357,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+"Foshan, Guangdong","Foshan, Guangdong",China,China Unicom,True,True,186 6653 4261,+86 186 6653 4261,+8618666534261,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+Mexico,Mexico,Mexico,,True,True,888 382 1222,+52 888 382 1222,+528883821222,29.0948291,-110.969219,C:/Users/vasil/Documents/scams.pdf
+"Ciudad Acuna, COAH","Ciudad Acuna, COAH",Mexico,,True,True,877 382 4357,+52 877 382 4357,+528773824357,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.pdf
+"Castanos/Monclova, COAH","Castanos/Monclova, COAH",Mexico,,True,True,866 653 4261,+52 866 653 4261,+528666534261,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.pdf
+"Jackson, MS","Jackson, MS",United States,,True,True,(601) 984-1675,+1 601-984-1675,+16019841675,41.8755616,-87.6244212,C:/Users/vasil/Documents/phones.txt
+"Canton, MS","Canton, MS",United States,,True,True,(601) 855-0728,+1 601-855-0728,+16018550728,41.8755616,-87.6244212,C:/Users/vasil/Documents/phones.txt
+"Jackson, MS","Jackson, MS",United States,,True,True,(601) 960-1234,+1 601-960-1234,+16019601234,41.8755616,-87.6244212,C:/Users/vasil/Documents/phones.txt
+"Brandon, MS","Brandon, MS",United States,,True,True,(601) 825-1480,+1 601-825-1480,+16018251480,41.8755616,-87.6244212,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-0366,+1 206-207-0366,+12062070366,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-0466,+1 206-207-0466,+12062070466,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-0799,+1 206-207-0799,+12062070799,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-2100,+1 206-207-2100,+12062072100,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-2147,+1 206-207-2147,+12062072147,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-3402,+1 206-207-3402,+12062073402,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-3533,+1 206-207-3533,+12062073533,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-3583,+1 206-207-3583,+12062073583,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-3781,+1 206-207-3781,+12062073781,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-4612,+1 206-207-4612,+12062074612,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-6243,+1 206-207-6243,+12062076243,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-6362,+1 206-207-6362,+12062076362,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-7727,+1 206-207-7727,+12062077727,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-8116,+1 206-207-8116,+12062078116,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-8177,+1 206-207-8177,+12062078177,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-8620,+1 206-207-8620,+12062078620,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+Washington State,Washington State,United States,,True,True,(206) 207-9455,+1 206-207-9455,+12062079455,40.76542365,-119.28610213100069,C:/Users/vasil/Documents/phones.txt
+India,India,India,,True,True,060198 41675,+91 60198 41675,+916019841675,22.5726723,88.3638815,C:/Users/vasil/Documents/phones.txt
+India,India,India,,True,True,060185 50728,+91 60185 50728,+916018550728,22.5726723,88.3638815,C:/Users/vasil/Documents/phones.txt
+India,India,India,,True,True,060196 01234,+91 60196 01234,+916019601234,22.5726723,88.3638815,C:/Users/vasil/Documents/phones.txt
+India,India,India,,True,True,060182 51480,+91 60182 51480,+916018251480,22.5726723,88.3638815,C:/Users/vasil/Documents/phones.txt
+,,,,True,True,(888) 382-1222,+1 888-382-1222,+18883821222,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+,,,,True,True,(877) 382-4357,+1 877-382-4357,+18773824357,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+,,,,True,True,(866) 653-4261,+1 866-653-4261,+18666534261,51.8666057,-176.6457508,C:/Users/vasil/Documents/scams.pdf
+Chongqing,Chongqing,China,China Mobile,True,True,188 8382 1222,+86 188 8382 1222,+8618883821222,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+"Loudi, Hunan","Loudi, Hunan",China,China Mobile,True,True,187 7382 4357,+86 187 7382 4357,+8618773824357,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+"Foshan, Guangdong","Foshan, Guangdong",China,China Unicom,True,True,186 6653 4261,+86 186 6653 4261,+8618666534261,31.2322758,121.4692071,C:/Users/vasil/Documents/scams.pdf
+Mexico,Mexico,Mexico,,True,True,888 382 1222,+52 888 382 1222,+528883821222,29.0948291,-110.969219,C:/Users/vasil/Documents/scams.pdf
+"Ciudad Acuna, COAH","Ciudad Acuna, COAH",Mexico,,True,True,877 382 4357,+52 877 382 4357,+528773824357,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.pdf
+"Castanos/Monclova, COAH","Castanos/Monclova, COAH",Mexico,,True,True,866 653 4261,+52 866 653 4261,+528666534261,19.7573995,-100.87812280546501,C:/Users/vasil/Documents/scams.pdf
