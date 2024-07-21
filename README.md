@@ -2,6 +2,10 @@
 
 TelOSINT is a robust program designed to automatically detect and gather comprehensive information about every phone number found in .pdf or .txt files. It further enhances its utility by saving Google search results related to each phone number, offering a unique approach to telecommunication data analysis.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/faf7cddf-0519-4271-82c4-d4416c49ef10" width="50%" height="50%" />
+</p> 
+
 ## Instructions
 
 1. Start by double-clicking on the `Create_shortcuts_for_TelOsint.exe` program. This will create the necessary shortcuts in the `TelOsint shortcuts` folder.
